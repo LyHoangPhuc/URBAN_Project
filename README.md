@@ -3,7 +3,7 @@
 Employee Manager là một ứng dụng quản lý nhân sự được xây dựng trên nền tảng **Spring Boot**. Ứng dụng hỗ trợ các chức năng quản lý nhân viên, văn phòng, lịch làm việc và các tính năng liên quan đến xác thực, phân quyền, và quản lý tài nguyên.
 
 ---
-
+## Vai trò trong nhóm : front-end làm trang đăng nhập đăng nhập/ đăng ký và trang lịch của nhân viên.
 ## 🎯 **Các tính năng chính**
 - **Quản lý nhân viên**:
   - Thêm, sửa, xóa, tìm kiếm và phân quyền nhân viên.
