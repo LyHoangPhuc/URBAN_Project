@@ -136,3 +136,58 @@ EmployeeManager/
 | `/api/schedules/{id}`       | PUT             | Cập nhật lịch làm việc                                                                   | ADMIN, MANAGER, USER     |
 | `/api/schedules/{id}`       | DELETE          | Xóa lịch làm việc                                                                        | ADMIN, MANAGER, USER     |
 
+Ảnh Demo: 
+
+<img width="596" height="641" alt="image" src="https://github.com/user-attachments/assets/abac4e15-6e6f-4962-8736-673334763990" />
+
+Hình 1 Giao diện đăng nhập của trang web 
+Tại đây Admin và User nhân viên sẽ đăng nhập bằng tên tài khoản và mật khẩu 
+để vào trang chính của trang web. Có thể bấm “Quên mật khẩu” nếu muốn lấy lại mật 
+khẩu của mình.
+
+<img width="637" height="341" alt="image" src="https://github.com/user-attachments/assets/3f4f86c9-0894-42a1-b8ce-aab4dea630e8" />
+
+Hình 2 Giao diện chính của trang web với quyền Admin
+Tại đây Admin có thể xem được thống kê số lượng nhân viên trong công ty, sắp 
+xếp theo chức vụ và theo văn phòng, ngoài ra Admin còn có thể xem danh sách nhân 
+viên và một số thông tin của các nhân viên hiển thị. 
+
+<img width="408" height="557" alt="image" src="https://github.com/user-attachments/assets/5df7b48f-817a-4045-aaeb-66196f01b9c3" />
+
+Hình 3 Giao diện đổi mật khẩu
+Tại đây Admin và User nhân viên có thể đổi và xác nhận lại mật khẩu của mình 
+khi chọn chức năng “Quên mật khẩu” ở giao diện “Đăng nhập”.
+
+<img width="747" height="399" alt="image" src="https://github.com/user-attachments/assets/e0d9f814-e2f0-4f65-be3d-2cc92606504d" />
+
+Hình 4 Giao diện xem danh sách nhân viên 
+Tại đây Admin có thể xem thông tin các nhân viên có trong công ty và có thể 
+nhấp vào từng nhân viên để xem thông tin chi tiết. Admin cũng có thể sửa thông tin 
+nhân viên hoặc xóa nếu muốn.
+
+<img width="746" height="408" alt="image" src="https://github.com/user-attachments/assets/f5ee7236-94c7-4cc5-98a1-8d0d832aa3b3" />
+
+Hình 5 Giao diện xem lịch của mọi nhân viên trong công ty
+Tại đây Admin có thể xem lịch làm việc của mọi nhân viên, có thể xem theo tuần, 
+ngày, tháng. Admin có thể nhấp vào một lịch bất kì để xem chi tiết thông tin của lịch 
+đó.
+
+<img width="755" height="211" alt="image" src="https://github.com/user-attachments/assets/d49535f9-e176-4f3c-9c27-5ce87b9ab6f3" />
+
+
+Hình 6 Giao diện xem các văn phòng có trong công ty 
+Tại đây Admin có thể xem các văn phòng của công ty. Admin có thể nhấp vào 
+từng văn phòng để xem thông tin chi tiết và cũng có thể thêm hoặc sửa thông tin văn 
+phòng.
+
+<img width="752" height="409" alt="image" src="https://github.com/user-attachments/assets/66667f71-7bec-4881-8d5f-8809b71b0104" />
+
+Hình 7 Giao diện chính của trang web với quyền User nhân viên
+Sau khi đăng nhập thành công vào trang web, thì giao diện chính của User nhân 
+viên sẽ hiện ra, tại đây User nhân viên có thể xem được thứ, ngày, tháng, năm, giờ và 
+lịch làm việc của mình.
+
+<img width="632" height="411" alt="image" src="https://github.com/user-attachments/assets/728f2884-0211-43df-97ef-6115ac4f686d" />
+
+Hình 8 Giao diện xem thông tin cá nhân của User nhân viên
+Tại đây User nhân viên có thể xem thông tin cá nhân của mình. 
